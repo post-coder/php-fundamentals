@@ -102,6 +102,8 @@
 
   <hr>
   <a href="cicli.php">pagina dei cicli</a>
+  <br>
+  <a href="snack.php">pagina degli snacks</a>
 
 </body>
 </html>
